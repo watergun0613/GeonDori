@@ -2,8 +2,11 @@
 
 
 <div align="center">
-  
-![Geondori's GitHub stats](https://github-readme-stats.vercel.app/api?username=watergun0613&show_icons=true&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=watergun0613)](https://solved.ac/watergun0613/) <img src="http://mazandi.herokuapp.com/api?handle=watergun0613&theme=Dark"/>
+  ![Geondori's GitHub stats](https://github-readme-stats.vercel.app/api?username=watergun0613&show_icons=true&theme=radical)
+
+  ---
+  <h4>©️BaekJoon Profile</h4>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=watergun0613)](https://solved.ac/watergun0613/) <img src="http://mazandi.herokuapp.com/api?handle=watergun0613&theme=Dark"/>
 </div>
